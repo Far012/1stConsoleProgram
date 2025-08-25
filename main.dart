@@ -18,6 +18,7 @@ void main() {
   } else {
     print("Falsch! Die richtige Antwort ist a) Eine Programmiersprache.");
   }
+
   // Frage 2
   print("\nFrage 2: Wer entwickelt Dart?");
   print("a) Microsoft");
@@ -31,6 +32,7 @@ void main() {
   } else {
     print("Falsch! Die richtige Antwort ist b) Google."); 
   }
+
   // Frage 3
   print("\nFrage 3: Wofür wird Dart hauptsächlich verwendet?");
   print("a) Mobile App-Entwicklung");
@@ -44,6 +46,7 @@ void main() {
   } else {
     print("Falsch! Die richtige Antwort ist d) Alle oben genannten.");
   }
+
   // Frage 4
   print("\nFrage 4: Welches Framework wird häufig mit Dart verwendet?");
   print("a) React");
@@ -57,6 +60,7 @@ void main() {
   } else {
     print("Falsch! Die richtige Antwort ist c) Flutter."); 
   }
+  
   // Frage 5
   print("\nFrage 5: Welche Datei-Endung haben Dart-Dateien?");
   print("a) .dart");
