@@ -1,4 +1,4 @@
-import 'dart:io'; // Import der dart:io Bibliothek für die Ein- und Ausgabe
+import 'dart:io';                                     // Import der dart:io Bibliothek für die Ein- und Ausgabe
 
 void main() {                                         // Einstiegspunkt meiner Anwendung
   print("Willkommen zum Dart-Quiz!");                 // Begrüßung
